@@ -1,11 +1,4 @@
-Creating a GitHub repository for your "PayBuddy" application is a great way to manage and collaborate on your project. Below is a detailed description for your GitHub repository and a README template that you can use as a starting point:
 
-**GitHub Repository Description:**
-
-Repository Name: PayBuddy
-Description: PayBuddy is a web-based payment and wallet management application that allows users to deposit cash, make payments, and schedule transactions with ease. Built using Python and Flask, PayBuddy provides a secure and user-friendly platform for managing financial transactions.
-
-**README Template:**
 
 # PayBuddy
 
