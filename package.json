@@ -1,0 +1,28 @@
+{
+  "name": "paybuddy-app",
+  "version": "1.0.0",
+  "description": "PayBuddy is a web-based payment and wallet management application that simplifies financial transactions for users. It's built using Python and the Flask web framework, providing a secure and user-friendly platform to deposit cash, make payments, and schedule transactions.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/codelord-evans/PayBuddy-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codelord-evans/PayBuddy-App/issues"
+  },
+  "homepage": "https://github.com/codelord-evans/PayBuddy-App#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongoose": "^8.0.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}
